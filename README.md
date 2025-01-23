@@ -1,6 +1,4 @@
 Created Pipeline View
-new code commit
-This is my second line
 Addressbook Tutorial
 ====================
 
