@@ -1,5 +1,5 @@
 Created Pipeline View
-added pipeline
+created Build pipeline view
 Addressbook Tutorial
 ====================
 
